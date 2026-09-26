@@ -684,11 +684,11 @@ copyBtn?.addEventListener(
 
     if (
       value ===
-      "SEU_EMAIL_AQUI"
+      "lorenzomilanelo2007@gmail.com"
     ) {
 
       showToast(
-        "adicione seu e-mail no HTML"
+        "E-mail copiado com sucesso"
       );
 
       return;
@@ -703,7 +703,7 @@ copyBtn?.addEventListener(
       );
 
       showToast(
-        "e-mail copiado"
+        "E-mail copiado com sucesso"
       );
 
     } catch {
